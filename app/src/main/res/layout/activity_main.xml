@@ -10,7 +10,8 @@
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Test SpeechHelper"/>
+        android:text="Test SpeechHelper"
+        android:layout_centerInParent="true"/>
 
     <com.lin.speechlibrary.SpeechFloatMenu
         android:id="@+id/speech_menu"
