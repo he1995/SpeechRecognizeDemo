@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coral">#ff7f50</color>
+    <color name="coral_pressed">#b97860</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#dfdfdf</color>
+    <color name="half_black">#808080</color>
+    <color name="black_semi_transparent">#B2000000</color>
+</resources>
