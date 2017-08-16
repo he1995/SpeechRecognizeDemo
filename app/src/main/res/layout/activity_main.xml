@@ -12,14 +12,9 @@
         android:layout_height="wrap_content"
         android:text="Test SpeechHelper"
         android:layout_centerInParent="true"/>
-
-    <com.lin.speechlibrary.SpeechFloatMenu
-        android:id="@+id/speech_menu"
+    <Button
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginRight="16dp"
-        android:layout_marginBottom="16dp"
-        android:elevation="100dp"/>
+        android:text="To SecondActivity"/>
 </RelativeLayout>
